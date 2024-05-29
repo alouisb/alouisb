@@ -1,4 +1,6 @@
-## Oi, eu sou Anthony Louis, estudante em Ciência da Computação, Projetista e Empreendedor!
+## Oi, eu sou Anthony Louis, estudante de Ciência da Computação, Projetista e Empreendedor!
+- Tenho um breve conhecimento em JS, Phyton, C#. Moro em Minas Gerais/BRASIL. Tenho grande disposição, vontade de aprender e fazer a diferença no mercado de trabalho. 
+- I have a brief knowledge of JS, Python, C#. I live in Minas Gerais/BRAZIL. I have a great disposition, desire to learn and make a difference in the job market.
 
 <div>
   <a href="https://github.com/alouisb">
